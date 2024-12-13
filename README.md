@@ -11,11 +11,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=8706E1FF&center=false&vCenter=true&random=false&width=435&lines=Welcome!+I'm+Anupa+Prabhasara;Don't+Forget+To+Follow+Me...)](https://git.io/typing-svg)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anupaprabhasara" style="padding: 2px;" />
+<a href="https://github.com/anupaprabhasara/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anupaprabhasara" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupaprabhasara&layout=compact&langs_count=8&card_width=320" style="padding: 2px;" />
+<a href="https://github.com/anupaprabhasara/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupaprabhasara&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ### Welcome! 
