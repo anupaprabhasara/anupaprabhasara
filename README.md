@@ -9,7 +9,9 @@
 ![license](https://img.shields.io/github/license/anupaprabhasara/anupaprabhasara?color=purple&label=License&style=plastic)
 ![developer](https://img.shields.io/static/v1?label=Author&message=Anupa%20Prabhasara&color=purple&style=plastic)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=8706E1FF&center=true&vCenter=true&random=false&width=435&lines=Welcome!+I'm+Anupa+Prabhasara;Don't+Forget+To+Follow+Me...)](https://git.io/typing-svg)
+<div style="text-align: left;">
+    <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=8706E1FF&center=true&vCenter=true&random=false&width=435&lines=Welcome!+I'm+Anupa+Prabhasara;Don't+Forget+To+Follow+Me..." alt="Typing SVG">
+</div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anupaprabhasara" />
