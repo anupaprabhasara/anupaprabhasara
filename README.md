@@ -29,7 +29,7 @@
 - 📞 Contact me on WhatsApp: **+94 (71) 200 3344**
 - 🎮 Connect with me on LinkedIn: [Anupa Prabhasara](https://www.linkedin.com/in/anupaprabhasara/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anupaprabhasara)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anupaprabhasara&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🤝 Connect & Collaborate
 
