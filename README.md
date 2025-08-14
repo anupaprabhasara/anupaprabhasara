@@ -1,39 +1,81 @@
-### Hi there 👋
+<h1 align="left">Welcome to My GitHub Profile!</h1>
 
-![forks](https://img.shields.io/github/forks/anupaprabhasara/anupaprabhasara?label=Forks&style=social)
-![stars](https://img.shields.io/github/stars/anupaprabhasara/anupaprabhasara?style=social)
-
-![size](https://img.shields.io/github/repo-size/anupaprabhasara/anupaprabhasara?color=purple&label=Repo%20Size&style=plastic)
-![license](https://img.shields.io/github/license/anupaprabhasara/anupaprabhasara?color=purple&label=License&style=plastic)
-![developer](https://img.shields.io/static/v1?label=Author&message=Anupa%20Prabhasara&color=purple&style=plastic)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=8706E1FF&center=false&vCenter=true&random=false&width=435&lines=Welcome!+I'm+Anupa+Prabhasara;Don't+Forget+To+Follow+Me...)](https://git.io/typing-svg)
-
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anupaprabhasara" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupaprabhasara&layout=compact&langs_count=8&card_width=320" />
-
-### Welcome! 
-
-- 😊 I’m **Anupa Prabhasara**
-- 👦🏻 I'm 21 years old
-- 👀 I’m interested in **HTML, CSS, JS, PHP, MySQL, C, C++, Java, React, MongoDB, Express, NodeJS, Python, Kotlin, AJAX, Bootstraps**
-- 🎓 I’m currently pursuing a **Software Engineering degree at Sri Lanka Institute of Information Technology**
-- 🔍 Looking to collaborate on **Developing websites hosted on Ubuntu servers, utilizing custom server configurations tailored for optimal performance on dedicated server environments**
-- 💌 Email me at: **info@anupa.lk**
-- 📞 Contact me on WhatsApp: **+94 (71) 200 3344**
-- 🎮 Connect with me on LinkedIn: [Anupa Prabhasara](https://www.linkedin.com/in/anupaprabhasara/)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=anupaprabhasara&margin-w=12&margin-h=12)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🤝 Connect & Collaborate
+###
 
 <div align="left">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=google-chrome&logoColor=white&color=purple)](https://www.anupa.lk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupaprabhasara/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@anupaprabhasara)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/anupaprabhasara)
-[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/anupaprabhasara)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@anupa.lk)
-
+  <img height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgryiAQHuRn40qF_Bx-O3yomdfq3OaLxWr4iRHl7SEWxM8jSaG62nhGVSendP8cLGsbDEpr11yAwEkuYbMkqrkKLcfWeJQUYvR_BDn8klQlznKSi9giMYV4gJN93qDCDdstEWbdhjfOzCY1ELJ8Tqnn6U-U5Y-5ftwB9odlv6HULop3LL0KfzBfJKxnw06j/s1600/www.anupa.lk.gif"  />
 </div>
+
+###
+
+<p align="left">My name is Anupa Prabhasara and I'm a Web Development Enthusiast, from Sri Lanka</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Spring Boot<br>🎯 Goals: To be a master-level Java programmer<br>🎲 Fun fact: I’m more of a smart thinker than a hard worker</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=anupaprabhasara&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="120" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=anupaprabhasara&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="120" alt="streak graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anupaprabhasara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=anupaprabhasara&theme=darkhub&column=4&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
