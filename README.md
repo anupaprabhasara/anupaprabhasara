@@ -62,17 +62,14 @@
 
 ###
 
-<!-- Row 1 -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anupaprabhasara&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" />
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- ~8px gap -->
-  <img src="https://streak-stats.demolab.com?user=anupaprabhasara&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anupaprabhasara&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="160" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=anupaprabhasara&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="160" />
 </p>
 
-<!-- Row gap (~8px) -->
-<br/>
+<div style="margin-top:4px;"></div>
 
-<!-- Row 2 -->
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app?username=anupaprabhasara&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" />
 </p>
