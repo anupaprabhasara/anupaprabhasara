@@ -68,7 +68,7 @@
   <img src="https://streak-stats.demolab.com?user=anupaprabhasara&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="160" />
 </p>
 
-<div style="margin-top:4px;"></div>
+<div style="margin-top:2px;"></div>
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app?username=anupaprabhasara&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" />
