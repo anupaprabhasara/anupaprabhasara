@@ -2,12 +2,6 @@
 
 ###
 
-<div align="left">
-  <img height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgryiAQHuRn40qF_Bx-O3yomdfq3OaLxWr4iRHl7SEWxM8jSaG62nhGVSendP8cLGsbDEpr11yAwEkuYbMkqrkKLcfWeJQUYvR_BDn8klQlznKSi9giMYV4gJN93qDCDdstEWbdhjfOzCY1ELJ8Tqnn6U-U5Y-5ftwB9odlv6HULop3LL0KfzBfJKxnw06j/s1600/www.anupa.lk.gif"  />
-</div>
-
-###
-
 <p align="left">My name is Anupa Prabhasara and I'm a Web Development Enthusiast, from Sri Lanka</p>
 
 ###
